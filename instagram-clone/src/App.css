@@ -1,0 +1,14 @@
+*{
+  margin: 0; /*baam theke shuru hobe shob*/ 
+}
+.app{
+  background-color: #fafafa;
+
+}
+
+.app__header{
+  object-fit: contain;
+  background-color: white;
+  border-bottom: 1px solid lightgray; /*app header er niche thin lining*/
+  padding: 20px;/*baam theke ektu shorbe*/
+}
